@@ -1,2 +1,3 @@
 # hello-world
 This is where it all started.
+im ravello. im a college student in the USA and ive been coding since i was a sophomore in high school on HTML. i havent really committed fully to coding and programming, but that changes now! i think coding is cool so im going to make a habit of it.
