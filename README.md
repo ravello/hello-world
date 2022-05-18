@@ -6,4 +6,4 @@ Update:
 I have experience in C++, C, and R now. Starting some SQL, Python, and Java this semester.
 
 P.S.
-If you're a recruiter, a lot of my projects from classes are privated.
+A lot of my projects from classes are privated.
