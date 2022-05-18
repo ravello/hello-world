@@ -5,4 +5,4 @@ Update:
 I have experience in C++, C, and R now. Starting some SQL, Python, and Java this semester.
 
 P.S.
-A lot of my projects from classes are privated.
+I have a lot of privated projects since theyre from my courses.
