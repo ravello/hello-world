@@ -21,4 +21,4 @@ I jumped in the deep end with the unity project and figured a lot of things myse
 I graduated college!! 
 
 P.S.
-I have a lot of privated projects since theyre from my courses.
+I have a lot of privated projects.
