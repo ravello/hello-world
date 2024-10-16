@@ -10,7 +10,7 @@ Starting some SQL, Python, and Java next semester.
 
 Update (January 2023) (Senior):
 I finished the fall semester and have experience with hardware, Arduino, and the C++ for Arduino. Completed the final project.
-I got through the systems programming course (w/ a hard prof) with more programming in C and the terminal.
+I got through the systems programming course (w/ a difficult prof) with more programming in C and the terminal.
 I finished my algorithms course. There was little programming but a lot of theory. The prof was very nice.
 I completed a elective class that focused on database systems and used MySQL as well as the Google Cloud Platform. I deployed a database project to the cloud.
 
@@ -18,7 +18,4 @@ Update (May 2023) (Just graduated!):
 I have more experience in Python for Data science using libraries like pandas, Java for object oriented programming, and HTML/CSS. 
 I have new experience in JavaScript and the React framework.
 I jumped in the deep end with the unity project and figured a lot of things myself and (unfortunately) had to make most of the project myself.
-I graduated college!! 
-
-P.S.
-I have a lot of privated projects.
+I finally graduated college!! 
